@@ -5,7 +5,7 @@
         <div class="card-body p-4">
           <form action="#" method="POST" @submit.prevent="register">
             <div class="logo">
-              <img src="/assets/images/logo.png" alt="" class="w-100">
+              <img src="../../../../public/assets/images/logo.png" alt="" class="w-100">
             </div>
             <hr>
             <display-errors :errors="errors" v-if="errors" :key="key"></display-errors>

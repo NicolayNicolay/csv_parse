@@ -5,7 +5,7 @@
         <div class="bd-sidebar slideout-menu slideout-menu-left" id="bd_sidebar">
           <div class="bd-logo">
             <a href="/admin" class="logo">
-              <img src="/assets/images/logo_white.png" alt="" class="w-100">
+              <img src="../../../../public/assets/images/logo_white.png" alt="" class="w-100">
             </a>
           </div>
           <div class="bd-login">
@@ -52,7 +52,7 @@
                   <div class="brand">
                     <div class="logo">
                       <a href="/admin" class="logo">
-                        <img src="/assets/images/logo_white.png" alt="" class="icon">
+                        <img src="../../../../public/assets/images/logo_white.png" alt="" class="icon">
                       </a>
                     </div>
                     <a class="btn btn-primary" data-bs-toggle="offcanvas" href="#offcanvasExample" role="button" aria-controls="offcanvasExample">

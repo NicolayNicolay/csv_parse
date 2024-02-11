@@ -3,7 +3,7 @@
     <div class="offcanvas-header">
       <h5 class="offcanvas-title" id="offcanvasExampleLabel">
         <a href="/admin" class="logo">
-          <img src="/assets/images/logo_white.png" alt="">
+          <img src="../../../../public/assets/images/logo_white.png" alt="">
         </a>
       </h5>
       <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>

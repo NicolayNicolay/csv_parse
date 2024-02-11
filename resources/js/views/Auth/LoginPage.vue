@@ -5,7 +5,7 @@
         <div class="card-body p-4">
           <form action="#" method="POST" @submit.prevent="authorize">
             <div class="logo">
-              <img src="/assets/images/logo.png" alt="" class="w-100">
+              <img src="../../../../public/assets/images/logo.png" alt="" class="w-100">
             </div>
             <hr>
             <div class="alert alert-danger" v-if="errors">{{ errors }}</div>
