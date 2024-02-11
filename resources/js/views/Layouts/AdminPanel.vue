@@ -31,7 +31,7 @@
                 </li>
                 <!--                Выход-->
                 <li class="nav-item">
-                  <a class="nav-link" href="/admin/logout">
+                  <a class="nav-link" href="/api/admin/logout">
                     <div class="wrapper-link">
                     <span class="icon text-primary">
                       <exit-icon/>
